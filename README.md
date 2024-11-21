@@ -1,5 +1,7 @@
 # 2stgMWW
 
+## Still in development. References will be posted when published.
+
 ## Example
 alpha <- 0.05
 
